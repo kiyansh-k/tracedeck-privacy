@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">TraceDeck dark icon</title><desc id="desc">A white T beside a teal traced D and forward arrow on a navy tile.</desc>
+  <defs><linearGradient id="tealDark" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#18E0D1"/><stop offset="100%" stop-color="#00B8B0"/></linearGradient></defs>
+  <rect x="72" y="72" width="880" height="880" rx="210" fill="#081628" stroke="#17314A" stroke-width="8"/>
+  <path d="M250 315 Q250 292 274 292 H550 Q576 292 571 318 L559 370 Q554 391 533 391 H456 L390 707 Q385 729 363 729 H307 Q283 729 289 704 L355 391 H267 Q242 391 247 366 Z" fill="#FFFFFF"/>
+  <path d="M592 300 H676 C821 300 862 395 862 513 C862 631 820 724 676 724 H555" fill="none" stroke="url(#tealDark)" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/><path d="M606 362 H674 C774 362 800 430 800 512 C800 594 773 662 674 662 H629" fill="none" stroke="url(#tealDark)" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="494" y="653" width="118" height="28" rx="14" fill="url(#tealDark)"/><rect x="525" y="599" width="105" height="28" rx="14" fill="url(#tealDark)"/><path d="M554 536 H642 V498 Q642 486 652 493 L724 549 Q736 558 724 568 L652 624 Q642 631 642 619 V580 H554 Q536 580 536 558 Q536 536 554 536 Z" fill="url(#tealDark)"/>
+</svg>
